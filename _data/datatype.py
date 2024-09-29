@@ -37,7 +37,17 @@
 # print(type(my_tup))
 
 '''This is Dictionary data type'''
-# dict={1:22,2:33,3:44}
+dict={1:22,2:33,3:44}
+dict1=dict.keys()
+print(dict1)
+dict2=dict.items()
+print(dict2)
+# dict3=dict.popitem()
+# print(dict3)
+# dict4=dict.popitem()
+# print(dict4)
+# print(dict4)
+print(dict)
 # print(dict)
 # for key,value in dict.items():
 #     print(key,":",value)
